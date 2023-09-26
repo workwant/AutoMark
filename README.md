@@ -1,4 +1,5 @@
 # AutoMark
+![Screenshot](https://i.imgur.com/0HvcUTJ.gif)
 ### A windows app that allows you to annotate images using color codes, custom text or measurements. However, some issues still need to be worked out, as the program is rather difficult to use in its current state
 # How to use
 ### Import your photos and annotate them in seconds
